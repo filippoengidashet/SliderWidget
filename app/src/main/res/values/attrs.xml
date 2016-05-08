@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderView">
+        <attr name="sliderColor" format="color" />
+        <attr name="sliderBackground" format="color" />
+        <attr name="sliderAutoBackground" format="boolean" />
+    </declare-styleable>
+</resources>
